@@ -1,0 +1,16 @@
+C:\Users\crist\source\repos\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions01.exe
+C:\Users\crist\source\repos\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions01.deps.json
+C:\Users\crist\source\repos\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions01.runtimeconfig.json
+C:\Users\crist\source\repos\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions01.runtimeconfig.dev.json
+C:\Users\crist\source\repos\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions01.dll
+C:\Users\crist\source\repos\Exceptions\Exceptions\bin\Debug\net5.0\ref\Exceptions01.dll
+C:\Users\crist\source\repos\Exceptions\Exceptions\bin\Debug\net5.0\Exceptions01.pdb
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.AssemblyInfoInputs.cache
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.AssemblyInfo.cs
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.dll
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\ref\Exceptions01.dll
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.pdb
+C:\Users\crist\source\repos\Exceptions\Exceptions\obj\Debug\net5.0\Exceptions01.genruntimeconfig.cache
